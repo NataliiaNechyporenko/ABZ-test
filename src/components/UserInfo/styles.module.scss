@@ -1,0 +1,10 @@
+@import '../../styles/var';
+
+.user_info_block {
+  border-bottom: 1px solid $text-color-transparent;
+}
+
+.userpic {
+  display: block;
+  border-radius: 50%;
+}
